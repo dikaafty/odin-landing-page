@@ -40,3 +40,18 @@ li a {
   display: flex;
   flex-direction: column;
 }
+
+#one {
+  background-color: #1f2937;
+  color: #f9faf8;
+  height: 90vh;
+}
+
+#one p:first-child {
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+#one p:last-of-type {
+  font-size: 16px;
+}
