@@ -60,6 +60,10 @@ li a {
   font-size: 16px;
 }
 
+#one p {
+  margin-bottom: 10px;
+}
+
 #one button {
   background-color: #1a73e8;
   color: #f9faf8;
