@@ -75,3 +75,9 @@ li a {
 .one-left {
   width: 45%;
 }
+
+.one-right img {
+  width: 400px;
+  height: auto;
+  border-radius: 5px;
+}
