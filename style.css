@@ -8,3 +8,12 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.header {
+  background-color: #1f2937;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 8px;
+}
