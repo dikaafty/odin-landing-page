@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 8px;
+  padding: 16px;
 }
 
 .header-logo {
@@ -23,4 +23,15 @@ body {
   font-size: 22px;
   font-weight: 700;
   margin-right: 500px;
+}
+
+.header-links {
+  display: flex;
+  gap: 16px;
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
+  color: #ffffff;
 }
