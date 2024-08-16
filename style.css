@@ -35,3 +35,8 @@ li a {
   text-decoration: none;
   color: #ffffff;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
