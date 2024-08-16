@@ -17,3 +17,10 @@ body {
   align-items: center;
   padding: 8px;
 }
+
+.header-logo {
+  font-family: Cinzel;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 500px;
+}
