@@ -55,3 +55,11 @@ li a {
 #one p:last-of-type {
   font-size: 16px;
 }
+
+#one button {
+  background-color: #1a73e8;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 20px;
+}
