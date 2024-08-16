@@ -48,7 +48,7 @@ li a {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  gap: 24px;
 }
 
 #one p:first-child {
