@@ -82,3 +82,10 @@ li a {
   height: auto;
   border-radius: 5px;
 }
+
+#two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
