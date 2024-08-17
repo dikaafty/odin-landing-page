@@ -92,6 +92,10 @@ li a {
   height: 50vh;
 }
 
+#two h2 {
+  font-size: 36px;
+}
+
 .main-container-img {
   display: flex;
   gap: 24px;
