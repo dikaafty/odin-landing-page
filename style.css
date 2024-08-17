@@ -135,3 +135,9 @@ li a {
   color: #1f2937;
   width: 50%;
 }
+
+#three p:last-of-type {
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 460px;
+}
