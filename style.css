@@ -101,6 +101,10 @@ li a {
   gap: 24px;
 }
 
+.main-container-img div {
+  width: 130px;
+}
+
 .main-container-img img {
   width: 130px;
 }
