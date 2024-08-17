@@ -163,3 +163,11 @@ li a {
 .left h4 {
   font-size: 18px;
 }
+
+.right button {
+  background-color: #1a73e8;
+  color: #f9faf8;
+  border: 2px solid #f9faf8;
+  padding: 6px 24px;
+  border-radius: 5px;
+}
