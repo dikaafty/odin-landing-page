@@ -27,13 +27,17 @@ body {
 
 .header-links {
   display: flex;
-  gap: 16px;
+  gap: 24px;
   list-style-type: none;
 }
 
 li a {
+  font-family: Cinzel;
   text-decoration: none;
   color: #ffffff;
+  border: 2px solid #f9faf8;
+  padding: 4px 12px;
+  border-radius: 5px;
 }
 
 .content {
@@ -172,3 +176,4 @@ li a {
   border-radius: 5px;
   cursor: pointer;
 }
+
