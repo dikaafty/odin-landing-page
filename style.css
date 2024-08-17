@@ -42,6 +42,12 @@ li a {
   border-radius: 5px;
 }
 
+li a:hover {
+  background-color: #ffffff;
+  color: #1f2937;
+  transition: all 0.1s ease-in-out;
+}
+
 /* Header Styling End */
 
 /* Content Styling Start */
@@ -195,6 +201,12 @@ li a {
   padding: 6px 24px;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.right button:hover {
+  background-color: #f9faf8;
+  color: #1a73e8;
+  transition: all 0.1s ease-in-out;
 }
 
 /* Content Four Styling End */
