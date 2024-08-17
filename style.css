@@ -90,3 +90,8 @@ li a {
   align-items: center;
   height: 50vh;
 }
+
+.main-container-img {
+  display: flex;
+  gap: 24px;
+}
