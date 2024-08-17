@@ -141,3 +141,10 @@ li a {
   font-weight: bold;
   margin-left: 460px;
 }
+
+#four {
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+  height: 40vh;
+}
