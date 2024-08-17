@@ -127,3 +127,11 @@ li a {
   align-items: center;
   height: 50vh;
 }
+
+#three p:first-child {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1f2937;
+  width: 50%;
+}
