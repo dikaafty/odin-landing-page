@@ -9,6 +9,8 @@ body {
   flex-direction: column;
 }
 
+/* Header Styling Start */
+
 .header {
   background-color: #1f2937;
   color: #ffffff;
@@ -40,10 +42,16 @@ li a {
   border-radius: 5px;
 }
 
+/* Header Styling End */
+
+/* Content Styling Start */
+
 .content {
   display: flex;
   flex-direction: column;
 }
+
+/* Content One Styling Start */
 
 #one {
   background-color: #1f2937;
@@ -87,6 +95,10 @@ li a {
   border-radius: 5px;
 }
 
+/* Content One Styling End */
+
+/* Content Two Styling Start */
+
 #two {
   display: flex;
   flex-direction: column;
@@ -123,6 +135,10 @@ li a {
  height: 130px;
 }
 
+/* Content Two Styling End */
+
+/* Content Three Styling Start */
+
 #three {
   background-color: #e5e7e8;
   display: flex;
@@ -145,6 +161,10 @@ li a {
   font-weight: bold;
   margin-left: 460px;
 }
+
+/* Content Three Styling End */
+
+/* Content Four Styling Start */
 
 #four {
   display: flex;
@@ -177,6 +197,12 @@ li a {
   cursor: pointer;
 }
 
+/* Content Four Styling End */
+
+/* Content Styling End */
+
+/* Footer Styling Start */
+
 .footer {
   background-color: #1f2937;
   color: #f9faf8;
@@ -185,3 +211,5 @@ li a {
   align-items: center;
   height: 10vh;
 }
+
+/* Footer Styling End */
